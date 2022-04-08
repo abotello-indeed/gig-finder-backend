@@ -1,0 +1,254 @@
+[
+  {
+    "business": {
+      "address": {
+        "streetNumber": 3310,
+        "streetName": "W Braker Ln",
+        "unitPrefix": "Ste",
+        "unitNumber": 300,
+        "city": "Austin",
+        "state": "TX",
+        "zipCode": 78758
+      },
+      "name": "Planet Express",
+      "phoneNumber": "123-456-7890",
+      "emailAddress": "customerservice@planex.com",
+      "description": "Interstellar package delivery company."
+    },
+    "geolocation": {
+      "latitude": 30.39284926973446,
+      "longitude": -97.72595129185486
+    },
+    "address": {
+      "streetNumber": 3310,
+      "streetName": "W Braker Ln",
+      "unitPrefix": "Ste",
+      "unitNumber": 300,
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": 78758
+    },
+    "contact": {
+      "firstName": "Bender",
+      "lastName": "Rodriguez",
+      "phoneNumber": "123-456-7890",
+      "emailAddress": "benderisgreat@planex.com"
+    },
+    "title": "Deliver package",
+    "description": "Deliver package to Omicron Persei 8",
+    "payRate": 20.00,
+    "startTime": "2022-04-08 12:00:00",
+    "endTime": "2022-04-08 15:00:00",
+    "vehicleRequired": false
+  },
+  {
+    "business": {
+      "address": {
+        "streetNumber": 2616,
+        "streetName": "W Braker Ln",
+        "unitPrefix": null,
+        "unitNumber": null,
+        "city": "Austin",
+        "state": "TX",
+        "zipCode": 78758
+      },
+      "name": "Ma & Pa's General Store",
+      "phoneNumber": "123-456-7890",
+      "emailAddress": "customerservice@generalstore.com",
+      "description": "Grocery store."
+    },
+    "geolocation": {
+      "latitude": 30.391856748453804,
+      "longitude": -97.72119180453608
+    },
+    "address": {
+      "streetNumber": 2616,
+      "streetName": "W Braker Ln",
+      "unitPrefix": null,
+      "unitNumber": null,
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": 78758
+    },
+    "contact": {
+      "firstName": "Pa",
+      "lastName": "Smith",
+      "phoneNumber": "123-456-7890",
+      "emailAddress": "pa@mpgeneralstore.com"
+    },
+    "title": "Stock shelves",
+    "description": "Unload truck and stock products onto shelves.",
+    "payRate": 16.50,
+    "startTime": "2022-04-08 17:00:00",
+    "endTime": "2022-04-09 00:00:00",
+    "vehicleRequired": false
+  },
+  {
+    "business": {
+      "address": {
+        "streetNumber": 3225,
+        "streetName": "Amy Donovan Plaza",
+        "unitPrefix": null,
+        "unitNumber": null,
+        "city": "Austin",
+        "state": "TX",
+        "zipCode": 78758
+      },
+      "name": "Kinoplex",
+      "phoneNumber": "123-456-7890",
+      "emailAddress": "customerservice@kinoplex.com",
+      "description": "Luxury movie theater."
+    },
+    "geolocation": {
+      "latitude": 30.396371766827148,
+      "longitude": -97.72786652270126
+    },
+    "address": {
+      "streetNumber": 3225,
+      "streetName": "Amy Donovan Plaza",
+      "unitPrefix": null,
+      "unitNumber": null,
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": 78758
+    },
+    "contact": {
+      "firstName": "Robert",
+      "lastName": "Checkem",
+      "phoneNumber": "123-456-7890",
+      "emailAddress": "bigguy@kinoplex.com"
+    },
+    "title": "Clean theater",
+    "description": "Clean up popcorn and crab legs after each screening.",
+    "payRate": 12.50,
+    "startTime": "2022-04-08 12:00:00",
+    "endTime": "2022-04-08 16:00:00",
+    "vehicleRequired": false
+  },
+  {
+    "business": {
+      "address": {
+        "streetNumber": 10414,
+        "streetName": "McKalla Pl",
+        "unitPrefix": null,
+        "unitNumber": null,
+        "city": "Austin",
+        "state": "TX",
+        "zipCode": 78758
+      },
+      "name": "QT3.14 Stadium",
+      "phoneNumber": "123-456-7890",
+      "emailAddress": "customerservice@qtpistadium.com",
+      "description": "Sports stadium and event arena."
+    },
+    "geolocation": {
+      "latitude": 30.387838638042517,
+      "longitude": -97.71934120628022
+    },
+    "address": {
+      "streetNumber": 10414,
+      "streetName": "McKalla Pl",
+      "unitPrefix": null,
+      "unitNumber": null,
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": 78758
+    },
+    "contact": {
+      "firstName": "Freddy",
+      "lastName": "Adu",
+      "phoneNumber": "123-456-7890",
+      "emailAddress": "fradu@qtpistadium.com"
+    },
+    "title": "Ball boy",
+    "description": "Retrieve balls that go out of bounds.",
+    "payRate": 15.30,
+    "startTime": "2022-04-08 12:30:00",
+    "endTime": "2022-04-08 15:00:00",
+    "vehicleRequired": false
+  },
+  {
+    "business": {
+      "address": {
+        "streetNumber": 2623,
+        "streetName": "W Braker Ln",
+        "unitPrefix": null,
+        "unitNumber": null,
+        "city": "Austin",
+        "state": "TX",
+        "zipCode": 78758
+      },
+      "name": "Panucci's Pizza",
+      "phoneNumber": "123-456-7890",
+      "emailAddress": "ew@pp.com",
+      "description": "Pizza and pizza paraphernalia."
+    },
+    "geolocation": {
+      "latitude": 30.390603618003105,
+      "longitude": -97.72144649838937
+    },
+    "address": {
+      "streetNumber": 2623,
+      "streetName": "W Braker Ln",
+      "unitPrefix": null,
+      "unitNumber": null,
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": 78758
+    },
+    "contact": {
+      "firstName": "I.C.",
+      "lastName": "Wiener",
+      "phoneNumber": "123-456-7890",
+      "emailAddress": "icwiener@pp.com"
+    },
+    "title": "Deliver pizza",
+    "description": "Deliver pizza to cryogenics lab.",
+    "payRate": 15.30,
+    "startTime": "2022-04-08 12:30:00",
+    "endTime": "2022-04-08 13:30:00",
+    "vehicleRequired": true
+  },
+  {
+    "business": {
+      "address": {
+        "streetNumber": 11101,
+        "streetName": "Burnet Rd",
+        "unitPrefix": null,
+        "unitNumber": null,
+        "city": "Austin",
+        "state": "TX",
+        "zipCode": 78758
+      },
+      "name": "Dentist",
+      "phoneNumber": "123-456-7890",
+      "emailAddress": "smile@dentist.com",
+      "description": "A dentist."
+    },
+    "geolocation": {
+      "latitude": 30.395718633774404,
+      "longitude": -97.71971881880778
+    },
+    "address": {
+      "streetNumber": 11101,
+      "streetName": "Burnet Rd",
+      "unitPrefix": null,
+      "unitNumber": null,
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": 78758
+    },
+    "contact": {
+      "firstName": "Diamond",
+      "lastName": "Jim",
+      "phoneNumber": "123-456-7890",
+      "emailAddress": "djdental@dentist.com"
+    },
+    "title": "Mouth duty",
+    "description": "Hold mouths open during exams.",
+    "payRate": 25.00,
+    "startTime": "2022-04-08 11:30:00",
+    "endTime": "2022-04-08 16:00:00",
+    "vehicleRequired": false
+  }
+]
