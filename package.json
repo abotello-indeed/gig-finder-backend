@@ -1,0 +1,26 @@
+{
+  "name": "gig-finder-backend",
+  "version": "1.0.0",
+  "description": "Node WebSocket server with MongoDB integration for Proximity Gig Finder project.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abotello-indeed/gig-finder-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abotello-indeed/gig-finder-backend/issues"
+  },
+  "homepage": "https://github.com/abotello-indeed/gig-finder-backend#readme",
+  "dependencies": {
+    "ws": "^8.5.0"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.6",
+    "utf-8-validate": "^5.0.9"
+  }
+}
