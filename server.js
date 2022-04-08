@@ -17,10 +17,7 @@ server.on('connection', (socket) => {
             await db.gig.create(data);
 
             // broadcast updated list of gigs to all clients
-            const response = JSON.stringify({
-                action: "update",
-                data: (await db.gig.findAll())
-            });
+            const response = JSON.stringify({ "result": await db.gig.findAll() });
 
             server.clients.forEach((client) => {
                if(client.readyState === ws.WebSocket.OPEN) {
