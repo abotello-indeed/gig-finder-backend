@@ -11,7 +11,8 @@ const gigSchema = new mongoose.Schema({
     startTime: Date,
     endTime: Date,
     vehicleRequired: Boolean
-});
+},
+    {timestamps: true});
 const Gig = mongoose.model('Gig', gigSchema);
 
 module.exports = { Gig };
