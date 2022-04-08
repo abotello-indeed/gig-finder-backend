@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/abotello-indeed/gig-finder-backend#readme",
   "dependencies": {
+    "mongoose": "^6.2.10",
     "ws": "^8.5.0"
   },
   "optionalDependencies": {
