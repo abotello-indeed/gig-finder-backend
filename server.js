@@ -1,7 +1,7 @@
 const ws = require('ws');
 const db = require('./database/db');
 
-const server = new ws.WebSocketServer({ port: 8080 });
+const server = new ws.WebSocketServer({ port: 8083 });
 
 server.on('connection', (socket) => {
     socket.on('message', async (data) => {
@@ -9,7 +9,7 @@ server.on('connection', (socket) => {
         const action = req.action;
 
         if(action === "connect"){
-            const response = JSON.stringify(await db.gig.findAll());
+            const response = JSON.stringify({ "result": await db.gig.findAll() });
             socket.send(response);
         }
         else if(action === "postGig") {
